@@ -25,11 +25,11 @@ This project serves as a comprehensive solution for managing car rentals. It inc
 
 ## Technologies Used
 
-- **Frontend:** [Add your frontend framework or libraries, e.g., React, Angular]
-- **Backend:** [Add your backend framework or libraries, e.g., Node.js, Express]
-- **Database:** [Add your database system, e.g., MongoDB, PostgreSQL]
+- **Frontend:** React
+- **Backend:** Node.js
+- **Database:** SQLite
 - **Programming Language:** TypeScript
-- **Others:** [Include any other tools or services you used]
+- **Others:** used fine environment 
 
 ---
 
